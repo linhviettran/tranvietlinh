@@ -68,12 +68,12 @@ body {
     margin:  0 30px 12px;
 }
 .btn-container {
-    display: flex;
+    display: center;
     justify-content: space-between;
     margin: 0 30px 12px;
 }
 .btn-container button {
-    height: 40px;
+    height: 80px;
     width: 80px;
     border:  none;
     margin-right: 12px;
